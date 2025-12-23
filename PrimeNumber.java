@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class PrimeNumbers {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc   = new Scanner(System.in);
 
         System.out.print("Enter how many prime numbers you want: ");
         int n = sc.nextInt();
